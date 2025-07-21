@@ -5,7 +5,7 @@ A professional and responsive banking website built using **HTML**, **CSS**, and
 ---
 
 ## 🌐 Live Preview
-> [Click to View](https://ashwascoder.github.io/Banking_Website/) *(if hosted with GitHub Pages)*
+
 
 ---
 
