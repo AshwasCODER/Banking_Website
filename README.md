@@ -4,8 +4,8 @@ A professional and responsive banking website built using **HTML**, **CSS**, and
 
 ---
 
-## 🌐 Live Preview
-> [Click to View](https://banking-website-plum.vercel.app/Index.html)
+## 🌐 Live Preview (https://banking-website-plum.vercel.app/Index.html)
+
 
 ---
 
